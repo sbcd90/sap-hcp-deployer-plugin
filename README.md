@@ -1,6 +1,11 @@
 sap-hcp-deployer-plugin
 =======================
 
+Pre-requisites
+==============
+
+The SAP Neo SDK should be downloaded ( from [here](https://tools.hana.ondemand.com/#cloud)) & installed.
+
 Installation guidelines
 =======================
 

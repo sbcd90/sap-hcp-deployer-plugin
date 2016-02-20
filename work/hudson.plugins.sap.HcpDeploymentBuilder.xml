@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<hudson.plugins.sap.HcpDeploymentBuilder_-DescriptorImpl plugin="sap-hcp-deployer@1.0">
+  <neo__sdk__home>C:\Users\i076326\Documents\softwares\neo-java-web-sdk-1.96.21</neo__sdk__home>
+</hudson.plugins.sap.HcpDeploymentBuilder_-DescriptorImpl>
